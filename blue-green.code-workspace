@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "blue-green",
+			"path": "../../../Users/yecat/OneDrive/Documentos/blue-green"
+		},
+		{
+			"name": "api_docs",
+			"path": "../api_docs"
+		},
+		{
+			"name": "api_docker",
+			"path": "../api_docker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
